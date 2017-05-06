@@ -1,0 +1,42 @@
+/* <!-- style.css --> */
+html {
+  font-family: verdana, sans-serif;
+  text-align: center;
+}
+.top {
+  font-weight: bold;
+  color: #fff;
+  font-size: 22px;
+  background-image: url('http://i.imgur.com/adOVF5L.png');
+}
+.btn-nav {
+  font-family: Helvetica, sans-serif;
+  font-size: 22px;
+  color: white;
+}
+h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+}
+h3 {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: black;
+}
+p {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  color: black;
+}
+.footer {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: black;
+}
+#newyork {
+  font-weight: bold;
+  color: white;
+  background-image: url('http://i.imgur.com/adOVF5L.png');
+}
